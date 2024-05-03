@@ -4,7 +4,7 @@ public class PrintNumbers
   {
     for(int i=1; i<=10; i++)
     {
-      system.out.println(i);
+      System.out.println(i);
     }
   }
 }
